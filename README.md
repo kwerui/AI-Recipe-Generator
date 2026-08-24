@@ -1,4 +1,4 @@
-# Chef Claude 🍳
+# Chef  🍳
 
 An AI-powered recipe generator built with React that creates recipe suggestions based on ingredients available to the user.
 
@@ -10,7 +10,7 @@ An AI-powered recipe generator built with React that creates recipe suggestions 
 
 ## About the Project
 
-Chef Claude is an interactive recipe assistant that helps users decide what to cook by generating recipes from a list of available ingredients.
+Chef is an interactive recipe assistant that helps users decide what to cook by generating recipes from a list of available ingredients.
 
 Users can add ingredients they have on hand and receive an AI-generated recipe formatted in Markdown, including suggested ingredients and cooking instructions.
 
