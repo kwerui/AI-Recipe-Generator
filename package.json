@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06ivq7",
-  "description": "https://scrimba.com/learn-react-c0e/~0nq",
+  "name": "ai-recipe-generator",
+  "description": "A React application that generates recipe suggestions using AI.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -8,14 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "19.0.0-rc-8b08e99e-20240713",
-    "react-dom": "19.0.0-rc-8b08e99e-20240713",
     "@anthropic-ai/sdk": "0.27.3",
-    "@huggingface/inference": "2.8.1",
+    "@huggingface/inference": "^4.13.28",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-markdown": "9.0.1",
-    "vite": "latest"
+    "vite": "^6.4.3"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "^4.3.1"
   }
 }
